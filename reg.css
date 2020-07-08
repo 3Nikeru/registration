@@ -1,4 +1,28 @@
 body{
-	background-color: #ccc;
+	background-color: pink;
 	font-family: serif;
+	text-align: center;
+	font-family: fantasy;
+}
+#form1{
+	border: 1px solid black;
+	border-radius: 15px;
+	padding: 20px 30px 30px 20px;
+	margin: 20px auto;
+	width: 450px;
+	box-shadow: 0 0 violet, 0 0 20px violet;
+}
+.form-group div{
+	text-align: left;
+}
+.form-group label{
+	color: black;
+	padding-bottom: 0;
+}
+.form-group small{
+	display: none;
+	color: red;
+}
+#form1 p{
+   
 }
