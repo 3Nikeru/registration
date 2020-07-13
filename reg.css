@@ -1,5 +1,5 @@
 body{
-	background-color: pink;
+	/*background-color: springgreen;*/
 	font-family: serif;
 	text-align: center;
 	font-family: fantasy;
@@ -22,7 +22,4 @@ body{
 .form-group small{
 	display: none;
 	color: red;
-}
-#form1 p{
-   
 }
